@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "IDGAF",
+  "base_artist": "Drake",
+  "createdAt": "2026-03-09T07:53:57.858328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "IDGAF",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/01_IDGAF_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "IDGAF",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/02_IDGAF_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "IDGAF (Anna of the North Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/03_IDGAF_(Anna_of_the_North_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "IDGAF (Darius Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/04_IDGAF_(Darius_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "IDGAF (Hazers Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/05_IDGAF_(Hazers_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "IDGAF (Young Franco Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/06_IDGAF_(Young_Franco_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "IDGAF",
+      "artist": "Thaiboy Digital",
+      "has_synced": true,
+      "path": "select/07_IDGAF_Thaiboy_Digital.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "IDGAF (with blackbear)",
+      "artist": "BoyWithUke feat. blackbear",
+      "has_synced": true,
+      "path": "select/08_IDGAF_(with_blackbear)_BoyWithUke_feat._blackbear.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "IDGAF (with blackbear)",
+      "artist": "BoyWithUke, blackbear",
+      "has_synced": true,
+      "path": "select/09_IDGAF_(with_blackbear)_BoyWithUke,_blackbear.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "IDGAF",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/10_IDGAF_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "IDGAF (feat. Morrisson)",
+      "artist": "Sidhu Moose Wala feat. Morrisson",
+      "has_synced": true,
+      "path": "select/11_IDGAF_(feat._Morrisson)_Sidhu_Moose_Wala_feat._Morrisson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "IDGAF (feat. Morrisson)",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/12_IDGAF_(feat._Morrisson)_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "IDGAF",
+      "artist": "BoyWithUke",
+      "has_synced": true,
+      "path": "select/13_IDGAF_BoyWithUke.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IDGAF (feat. Yeat)",
+      "artist": "Drake",
+      "has_synced": false,
+      "path": "select/pl_01_IDGAF_(feat._Yeat)_Drake.txt"
+    }
+  ]
+}
